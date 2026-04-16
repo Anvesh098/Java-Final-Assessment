@@ -109,3 +109,15 @@ data.ser (generated after saving data)
 
 ---
 
+
+
+
+
+mcq answers -----
+MCQ 1: Answer: B. HashMap<Student, ArrayList>
+
+MCQ 2: Answer: C. Throw a custom exception
+
+MCQ 3: Answer: B. Use synchronized or thread-safe collection
+
+MCQ 4: Answer: B. Interface
